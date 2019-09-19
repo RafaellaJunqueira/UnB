@@ -1,0 +1,15 @@
+FAZER DUAL BOOT
+
+1. Baixar o rufus
+2. Fazer o pendrive bootavel
+	* baixa a ISO no google
+	* entra no rufus, seleciona o tipo de sistema que vai ser, seleciona a iso
+	* marca MBR e FAT32
+3. Desabilitar 
+	* Opções de energia > Escolher a função dos botões de energia > alterar configurações não disponíveis > desmarcar "hibernar" e o outro lá.
+	* No prompt de comando (cmb): 
+4. Particionar o HD
+	* Direita do mouse na tecla windows > gerenciamento de disco > direita do mouse na partição tipo (C:) > diminuir
+	* A conta pra diminuir é colocar quanto espaço vc quer. Faça 1024 (1GB) * a porcentagem que vc quer. Ex.: quero 60% do HD = 1024 * 60. Coloque isso no espaço indicado.
+5. Reinicie o notebook e, antes de abrir, fique apertando F12. 
+6.Selecione o pendrive onde está o outro sistema operacional.

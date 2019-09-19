@@ -1,0 +1,62 @@
+dontpad de mds:  www.dontpad.com/mdsfood
+dontpad dos gits: http://dontpad.com/mds/food/github
+
+INSTALANDO DOCKER
+	Docker é como uma máquina virtual, é um conteiner que vai abrigar tudo.
+		* Copiar o  desse site ( https://get.docker.com/  ) e salvar arquivo docker.sh
+		* Terminal > sudo source docker.sh
+		* docker --version
+	Agora precisa instalar o docker compose (é um facilitador para o docker)
+		* sudo curl -L "https://github.com/docker/compose/releases/download/1.24.1/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+		* sudo chmod +x /usr/local/bin/docker-compose
+	Pra abrir o docker:
+		* Abre sua pasta do projeto, dá git clone no repositório que quer
+		* abre a pasta do repositório
+		* git fetch
+		* git checkout <branch que vc quer>
+		* sudo docker-compose up
+		* abre o http.:// que ele vai gerar e vai ver o docker html que já foi gerado
+		* abre o sublime, abre a pasta inteira no src e começa a mexer no arquivo .html
+	Tudo que vc mexer o código vai aparecer na página web.
+
+COMO COMMITAR COM MÚLTIPLAS PESSOAS
+	* na hora de dar commit, não coloca a mensagem -m, dá só commit
+	* coloca o título do commit
+	* embaixo coloca o co-autor 
+	* salva com ctrl+x e enter
+	* aí dá push
+
+APRENDENDO HTML
+	* abrir o arquivo .html
+	* tag <!DOCKTYPE> é pra indicar a versão do html
+	* na tag <link rel= " "....> o nome tem que estar em inglês: icon;
+	* Pra escolher fontes vai no google fonts, salva as bichinhas que quer e dps copia o link
+	* Prioridade: 
+		1. o que ta dentro da tag no .html
+		2. o que está dentro da tag <style> (dentro do html msm)
+		3. o que t\ no arquivo css 
+	* 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
