@@ -78,7 +78,7 @@ Esses testes são breves e com um propósito especial, bem específico. Ele não
 
 </div>
 
-### 📌 Links topzeiras
+### 📌 Boas referências
 [Explicação no Linkedin](https://www.linkedin.com/pulse/para-que-servem-os-testes-explorat%C3%B3rios-diego-conrado/?originalSubdomain=pt)
 <br>
 [Aula da Iolane](https://www.youtube.com/watch?v=9h65WEjmqTg&feature=youtu.be)

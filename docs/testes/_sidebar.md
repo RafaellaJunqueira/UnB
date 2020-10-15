@@ -1,1 +1,0 @@
-* [Testes exploratórios](teste_exploratorio.md)
