@@ -1,8 +1,13 @@
-# <center>Fundamentos
+# <center>Requisitos
 
 <div align="justify">
 
-A Engenharia de Requisitos, também chamada apenas como "fase de requisitos" durante um projeto, funciona como uma espécie de ponte entre o cliente e a equipe de desenvolvimento. O resultado dessa fase durante o desenvolvimento de um produto é uma lista de requisitos, ou seja, especificações que o software deve ter ou atender para que o produto final seja entregue conforme o desejado pelo cliente. Esses requisitos possuem níveis: nível de negócio, nível de usuário e nível de produto; e são classificados em requisitos **funcionais** e **não-funcionais**.
+A fase de requisitos em um projeto funciona como uma espécie de ponte entre o cliente e a equipe de desenvolvimento. O resultado dessa fase durante o desenvolvimento de um produto é uma lista de requisitos, ou seja, especificações que o software deve ter ou atender para que o produto final seja entregue conforme o desejado pelo cliente. Esses requisitos possuem níveis: nível de negócio, nível de usuário e nível de produto; e são classificados em requisitos **funcionais** e **não-funcionais**.
+<div align="center">
+
+![Niveis](../_media/requisitos/niveis_requisitos.png)
+
+</div>
 
 ## Classificação dos requisitos 
 
