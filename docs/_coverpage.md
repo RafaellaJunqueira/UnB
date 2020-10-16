@@ -1,4 +1,4 @@
-<div alig="center">
+<div align="center">
 
 <h1 style="color: black;">UnBeautiful, UnBalbúrdia</h1><br>
 <img src="_media/core_unb.png" alt="" width="400">

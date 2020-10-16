@@ -2,7 +2,8 @@
 ## <center>Lema oficial:  Fé no Pai que a aprovação sai!
 
 
-Olá, Rafaella do futuro e amigos curiosos! Este gitpages tem uma única finalidade (no momento) que é guardar as coisas das matérias que acho mais enroladas e que estão sendo aprendidas ao longo do tempo. 
+<!-- Olá, Rafaella do futuro e amigos curiosos!  -->
+Este gitpages tem a finalidade de guardar as coisas das matérias que acho mais enroladas e que estão sendo aprendidas ao longo do tempo.
 
 Sabe aquele link perfeito que a gente acha em meio às 755 abas abertas durante uma pesquisa, e dois dias depois a gente precisa dele mas não acha nunca mais? pretendo deixar referenciado aqui...
 
