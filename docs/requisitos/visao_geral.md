@@ -35,13 +35,13 @@ A pós-rastreabilidade serve para manter os rastros da linha-base (baseline) de 
 
 ### 📌 Boas referências
 - [Técnicas de elicitação](http://www.engr.sjsu.edu/fayad/current.courses/cmpe131-spring08/docs/lecture4/Tech-Req-Elicitation-Paper.pdf)
-- [Priorização de requisitos - Técnica First Thing First](https://www.processimpact.com/articles/prioritizing.pdf)
 - [Casos de Uso](https://www.uml-diagrams.org/use-case-diagrams.html)
 - [Product Backlog](https://www.desenvolvimentoagil.com.br/scrum/product_backlog)
 - [Rich Picture](https://www.ics.uci.edu/~wscacchi/Software-Process/Readings/RichPicture.pdf)
 - [ACE Framework](https://bdm.unb.br/bitstream/10483/9267/1/2014_AndreCruzAlvesCavalcante.pdf)
 <!-- Matriz de Rastreabilidade - Backward From (https://requisitos-2017-2-nubank.github.io/Nubank/siki/rast-back.html). -->
 - [Rastreabilidade](http://www.dbd.puc-rio.br/depto_informatica/05_20_sayao.pdf)
+- [Priorização de requisitos - Técnica First Thing First](https://www.processimpact.com/articles/prioritizing.pdf)
 
-- Técnica de priorização de requisitos - MoSCoW
+- Priorização de requisitos - Técnica MoSCoW
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DzruAbBhY0Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
