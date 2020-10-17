@@ -18,7 +18,7 @@ A documentação dos testes exploratórios varia entre documentar todos os teste
 ## Metáfora do turista - Whitaker
 Essa metáfora é uma alusão a um viajante visitando uma grande cidade, com pouco tempo, e que sem um guia ele não vai conseguir conhecer a cidade. Então, precisa fazer uma estratégia para o turista conseguir aproveitar o tempo e guiar as decisões. A mesma ideia é associada ao testador de software que deseja explorar um software complexo ou desconhecido, pois ele tem que escolher a **estratégia** e definir as **metas** pra conseguir atingir um objetivo específico.
 
-### 📆 Planejamento do turista
+### Planejamento do turista
 Um bom turista é aquele que, ao planejar sua viagem, divide seu destino em distritos (comercial, entretenimento, teatro, etc). Fazendo a associação, um bom testador pode dividir o sistema em **distritos**, seguindo um critério lógico. Cada distrito é subdividido em **tipos de tour**, conforme apresenta a tabela abaixo.
 
 ![Tabela metafora](../_media/testes/metafora_turista.png)
@@ -57,7 +57,7 @@ Esses são os testes mais tranquilos, que envolvem características que não sã
 * **Tour pelo beco (the back alley tour**: testar as caracterísitcas menos prováveis de serem utilizadas, dos bastidores, e as menos atrativas ao usuário. O objetivo disso é exercitar as características pouco exploradas por testes, pois ali pode-se encontrar comportamentos improváveis já que, provavelmente, as pessoas não testaram muito bem. É um ótimo tour para as áreas que não foram testadas;
 
 * **Tour noturno (all-nighter tour)**: o teste não pode parar... é o teste do truvs eterno! "Quanto tempo a aplicação pode durar em execução?", "por quanto tempo a aplicação consegue executar e processar dados antes de entrar em colapso?". O objetivo é desafiar o software inserindo dados e forçando leituras, e a tendência é que ele falhe em algum momento. Pra fazer isso, é necessário aplicar os testes por um longo período de tempo até que se obtenham os resultados.
-⚠️ Dúvida: isso não é um teste de stress? Qual a diferença?
+<br>⚠️ Dúvida: isso não é um teste de stress? Qual a diferença?
 
 #### Distrito turístico
 Esses testes são breves e com um propósito especial, bem específico. Ele não é para fazer o software funcionar, é pra marcar as funcionalidades ainda não visitadas.
@@ -70,11 +70,36 @@ Esses testes são breves e com um propósito especial, bem específico. Ele não
 
 * **Tour TOGOF**: esse nome é uma adaptação para o acrônimo BOGOF (buy one, get one free), no caso aqui, seria "test one, get one free", e tem esse nome porque indica que se um defeito for encontrado em uma cópia, será encontrado em todas as cópias dessa aplicação. É um tour simples pra testar várias cópias de uma mesma aplicação de forma simultânea. O objetivo é identificar possíveis problemas de concorrência e compartilhamento indevido de recursos. Pra fazer isso é necessário começar executando uma aplicação e depois vai executando as outras cópias, de forma que cada cópia seja forçada a executar algo em memória ou disco. Tente fazer todas as cópias abrirem os mesmos arquivos ou transmitir dados pela rede de forma simultânea.
 
-* **Tour pelo bar escocês (scottish pub tour)**: 
+* **Tour pelo bar escocês (scottish pub tour)**: é um tour para grandes e complicadas aplicações, porque são códigos onde os "segredos" dele são passados "boca a boca". O objetivo é verificar se as caracaterísticas mais difíceis de serem encontradas no produto funcionam corretamente. É preciso identifcar uma lista das funcionalidades difíceis de serem encontradas e definir casos de testes pra elas. TRUQUE: pra encontrar essas funcionalidades, é preciso começar a busca em grupos de usuários e também gastar bastante tempo percorrendo as produndezas da aplicação. 
+
+#### Distrito Hoteleiro
+Representa a oportunidade pro testador deixar de lado as funções principais e focar a atenção dos testes nas funções secundárias e de apoio.
+
+* **Tour da chuva**: são testes que vão identificar os problemas relacionados com a não habilidade de realizar a limpeza do que foi iniciado, como arquivos que continuam abertos e dados mantidos. É natural que o usuário interrompa algumas ações e deseje executa-las novamente, então esse tour é, basicamente, pra testar o botão de cancelar. Para fazer isso é necessário identificar uma lista de operações que consomem tempo para serem executadas, iniciar uma dessas operações e depois interrompe-la. Se existir o botão "cancelar", aperte ele, caso contrário pode tentar esc, voltar do navegador, ou shift + F4. Tente também inciar uma nova ação sem interromper a outra e tenha a certeza de que uma ação pode ser reexecutada e completada com sucesso.
+
+* **Tour do preguiçoso (the coach potato tour)**: os testes desse tour são aqueles que vão trabalhar o mínimo possível. Não é poque o testador trabalhe pouco que o software também trabalhe pouco. O objetivo desse teste é fazer o software processar valores padrões adequadamente e deve executar o código de manipulação de campos em branco. Para realizar isso é necessário: em cada campo do formulário, aceitar todos os valores padrão; manter campos de entrada em branco; preencher os formulários com a menor quantidade de dados possível; 
  
+#### Distrito decadente
+Representa os testes que precisam ser feitos pra evitar que os usuários passem por momentos incômodos.
 
+* **Tour do sabotador**: esse tour tem a intenção de minar a aplicação de todas as maneiras e oportunidades possíveis (como corromper um arquivo ou apagar um arquivo antes de completar a ação, etc). O objetivo é procurar defeitos no produto relacionadas à escassez ou falta de recursos necessários pra completar as ações solicitadas. Para isso, é preciso forçar a aplicação a executar uma ação (existem muitas formas de perturbar o ambiente de execução, como adicionar ou remover arquivos, alterar permissões de acesso, desconectar cabo de rede, etc).
 
+* **Tour do antisocial**: nesse tour, pretende-se fazer o oposto do esperado, então, em tetes isso significa fornecer os dados de entrada menos prováveis ou inválidos e avaliar o comportamento do software nessas situações foras do comum. Esse tour se divide em 3 sub tours:
+    - Oposto: utilizar a entrada menos provável possível pra saber a capacidade de tratamento de erros;
+    - Do arrastão: utilizar entradas que nunca deveriam ser fornecidas, ou seja, as entradas inválidas. Isso pra testar se as mensagens de erros são exibidas corretamente;
+    - Rumo errado: realizar os testes na ordem errada, ou seja, tentar fazer as coisas fora da ordem "cronológica" da aplicação (ex.: alterar opções de entrega antes de completar a compra). Isso pra verificar se as sequências inválidas passam ou são impedidas.
 
+* **Tour Obssessivo Compulsivo**: o testador vai repetir a mesma ação várias vezes seguidas porque os usuários muitas vezes erram e precisam voltar pra tentar fazer de novo os passos, da maneira que acharem mais intuitivo. Pra saber se o software aceita e não se embaralha com os dados, é preciso identificar uma lista de telas/ funcionalidades que se deseja visitar e fornecer a mesma entrada várias vezes.    
+
+### Níveis de exploração
+
+|    Nível   | Descrição |
+|:-----------|-----------|
+| Freestyle  | O objeto de teste para ser explorada livremente pelo testador |
+| Alto grau de exploração | Alguns objetivos são definidos, mas o teste ainda é livre | 
+| Grau médio | Definidos os objetivos + restrições (como coisas que PRECISAM estar nos testes) |
+| Baixo grau | Definidos objetivos + alguns passos que devem ser feitos no teste; liberdade para escolher os dados desses passos | 
+| Totalmente com script | Definidos os objetivos + passos que devem ser feitos no teste + dados que devem ser usados; sem espaço para exploração. | 
 
 </div>
 
