@@ -1,5 +1,6 @@
 * [**Requisitos de software**](requisitos/visao_geral.md)
     * [Metodologias](requisitos/metodologias.md)
     * [Requisitos](requisitos/requisitos.md)
-* [**Testes de software**](testes/teste_exploratorio.md)
+* [**Testes de software**](testes/visao-geral.md)
     * [Testes exploratórios](testes/teste_exploratorio.md)
+    * [TDD](testes/TDD.md)
