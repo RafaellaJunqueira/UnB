@@ -2,5 +2,6 @@
     * [Metodologias](requisitos/metodologias.md)
     * [Requisitos](requisitos/requisitos.md)
 * [**Testes de software**](testes/visao-geral.md)
+    * [Testes dinâmicos](testes/testes-dinamicos)
     * [Testes exploratórios](testes/teste_exploratorio.md)
     * [TDD](testes/TDD.md)

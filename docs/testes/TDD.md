@@ -30,8 +30,11 @@ java --version
 ```
 **Eclipse**
 ```
-
+Entre em "Gerenciador de aplicativos" do linux e instale o Eclipse 
 ```
+
+**Como fazer o teste**
+O teste TDD é, basicamente, dividido em
 
 
 </div>
