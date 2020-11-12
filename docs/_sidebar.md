@@ -1,4 +1,5 @@
 * [**Requisitos de software**](requisitos/visao_geral.md)
+    * [DAE](requisitos/DAE.md)
     * [Metodologias](requisitos/metodologias.md)
     * [Requisitos](requisitos/requisitos.md)
 * [**Testes de software**](testes/visao-geral.md)
