@@ -7,7 +7,7 @@ Este diário tem o objetivo de documentar o processo de aprendizado ao longo da 
 ## Facilidades
 **1.** O próprio modelo remoto me auxiliou muito neste processo porque descobri que rendo muito mais e por muito mais tempo quando posso estudar sem me deslocar.
 
-**2.** Meu entendimento sobre o trabalho final parece ter sido diferente dos demais colegas mas, ainda assim, o professor me deixou continuar com a ideia de projeto que eu tinha em mente. Foi muito bom não apenas por não necessitar refazer tudo do zero, mas porque me senti livre para desenvolver um projeto que, embora não tenha sido a ideia original do professor, ainda estava totalmente inserido no contexto da disciplina então realmente poderia agregar valor aos meus conhecimento da mesma forma. 
+**2.** Meu entendimento sobre o trabalho final parece ter sido diferente dos demais colegas mas, ainda assim, o professor me deixou continuar com a ideia de projeto que eu tinha em mente. Foi muito bom não apenas por não necessitar refazer tudo do zero, mas porque me senti livre para desenvolver um projeto que, embora não tenha sido a ideia original do professor, ainda estava totalmente inserido no contexto da disciplina então realmente poderia agregar valor aos meus conhecimento da mesma forma.
 
 ## Dificuldades
 **1.** A principal dificuldade, e ponto chave da minha dor de cabeça neste semestre desde o começo, foi o azar de ter caído em um grupo super difícil de lidar. 
@@ -27,7 +27,7 @@ Eu me senti uma professora à moda antiga: aquela que detém conhecimento e pass
 **4.** A wiki do Aprender3 tem uma usabilidade péssima!! Foi bem ruim utilizá-la, eu não achava as coisas direito por lá, cheguei a perder comentários feitos pelo professor sobre um documento simplesmente porque não achei onde estava. Diversas vezes tive que perguntar para colegas da turma onde estava alguma informação ou área onde deveríamos postar alguma entrega. Foi uma experiência bem estressante.
 
 ## Sugestões de melhoria
-**1.** Aulas gravadas ajudariam muito porque posso voltar e assistir novamente sempre que precisar. Além de poder pausar e fazer minhas anotações sempre que preciso, sem me apressar e sem perder informações por ter ficado anotando coisas. As aulas não precisam ser gravadas antes, gravar as aulas síncronas já seria ótimo também.
+**1.** Aulas gravadas ajudariam muito porque posso voltar e assistir novamente sempre que precisar. Além de poder pausar e fazer minhas anotações sempre que preciso, sem me apressar e sem perder informações por ter ficado anotando coisas.
 
 **2.** A matéria poderia ter um perfil no Github e atribuir um repositório para cada grupo. Assim, as informações de todos estariam padronizadas e centralizadas em um único lugar que seria o git da disciplina. Esse modelo já é utilizado em outras disciplinas, como MDS, Testes e IHC, e tem um feedback muito positivo de nós, alunos. É uma plataforma que já estamos acostumados (e muitas vezes utilizada até mesmo no mercado de trabalho), facilita a visualização tanto dos alunos quanto do professor, pois pode-se acompanhar dinamicamente o que tem acontecido com o grupo, como ele está se desenvolvendo e se comunicando.
 

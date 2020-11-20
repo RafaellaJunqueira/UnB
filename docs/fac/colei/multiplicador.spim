@@ -1,0 +1,38 @@
+# O operador mult será implementado do zero, ou seja, fazer uma multiplicação bit a bit sem usar o mult,
+# no documento chamado "multfac.spim"
+
+.data
+    quebra: .asciiz "\n"
+
+.text
+main:
+# inicializa a0 e a1 com zero e depois coloca os valores desejados
+    move    $a0, $zero
+    addi    $a0, 9
+
+    move    $a1, $zero
+    addi    $a1, 8
+
+    mult	$a0, $a1			# $t0 * $t1 = Hi and Lo registers
+
+# imprimir o lo (resultado total)
+    mflo	$a0					# resultado Lo salva em a0. Jogar pro a0 facilita pra poder imprimir direto!
+    li      $v0, 1
+    syscall
+
+    la $a0, quebra
+    li $v0, 4
+    syscall
+
+# imprimir o hi
+    mfhi    $a0                 # resultado Hi vai pra a0
+    li      $v0, 1
+    syscall
+
+    la $a0, quebra
+    li $v0, 4
+    syscall
+
+
+    li $v0, 10
+    syscall

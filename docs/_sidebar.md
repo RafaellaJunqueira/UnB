@@ -6,3 +6,10 @@
     * [Testes dinâmicos](testes/testes-dinamicos)
     * [Testes exploratórios](testes/teste_exploratorio.md)
     * [TDD](testes/TDD.md)
+* [**FAC**](fac/codigos/ola-mundo.md)
+    * **Códigos**
+    * [Ola mundo](fac/codigos/ola-mundo.md)
+    * [Operações básicas](fac/codigos/operacoes-basicas.md)
+    * [Laço simples](fac/codigos/for.md)
+    * [Laço duplo](fac/codigos/for-for.md)
+    * [If Else](fac/codigos/if-else.md)
