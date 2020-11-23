@@ -23,7 +23,8 @@ Um bom turista é aquele que, ao planejar sua viagem, divide seu destino em dist
 
 ![Tabela metafora](../_media/testes/metafora_turista.png)
 
-#### Distrito de Negócios
+#### <center> Distrito de Negócios
+
 É o local onde os negócio são feitos, com hora do rush e hora de horário comercial. Em software seria sistemas que dependem da inicialização de ...... prontos pra uso. Esse distito tem 7 tours:
 
 * **Tour guiado (tour F1 ou guidebook tour)**: basicamente, significa seguir, à risca, o manual do usuário. O objetivo é executar cada passo do manual de modo mais fiel possível, assim, avalia-se a habilidade do software de fazer o que foi prometido e também a precisão do manual do usuário;

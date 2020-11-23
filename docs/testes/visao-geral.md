@@ -10,9 +10,11 @@ De forma geral, o processo de testes de software representa uma estruturação d
 - Planejamento dos testes;
 - Especificação dos testes; 
 - Modelagem;
-- Disponibilização ou preparação do ambiente de testes;
+- Preparação do ambiente de testes;
 - Execução dos testes;
-- Análise dos resultados e encerramento do processo. 
+- Registrar resultados;
+- Monitorar resultados (reparos de defeitos);
+- Avaliar resultados (métricas).
 
 Cada fase dessa está detalhada na primeira parte deste [artigo](https://www.devmedia.com.br/processo-de-teste-agil-x-tradicional/36854).
 
