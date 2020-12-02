@@ -2,6 +2,8 @@
     * [DAE](requisitos/DAE.md)
     * [Metodologias](requisitos/metodologias.md)
     * [Requisitos](requisitos/requisitos.md)
+    * [Problemas e necessidades](requisitos/problemas.md)
+    * [Técnicas de elicitação](requisitos/tecnicas.md)
 * [**TESTES**](testes/visao-geral.md)
     * [TDD](testes/TDD.md)
     * [Testes exploratórios](testes/teste_exploratorio.md)

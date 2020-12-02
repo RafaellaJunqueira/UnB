@@ -5,7 +5,7 @@
 Este diário tem o objetivo de documentar o processo de aprendizado ao longo da disciplina de requisitos de software, ressaltando pontos de facilidade e dificuldade ao longo do semestre, além de propor melhorias para o processo de ensino-aprendizagem na matéria. As questões de conteúdos que aprendi estão nas outras páginas deste gitpages, na sidebar abaixo deste tópico DAE.
 
 ## Principais conhecimentos adquiridos
-Aprendi sobre as metodologias, diferença entre requisitos funcionais e não funcionais, problemas e necessidades dos usuários, modelagem e escrita de casos de uso. Além de verificação e validação dos requisitos e algumas técnicas de elicitação e modelagem de requisitos. Os resumos sobre cada assunto eu descrevi na wiki pessoal para assuntos da UnB, na aba "REQUISITOS", disponível neste link: https://rafaellajunqueira.github.io/UnB/#/requisitos/visao_geral
+Aprendi sobre as metodologias, os tipos de requisitos, problemas e necessidades dos usuários, modelagem e escrita de casos de uso. Além de verificação e validação dos requisitos e algumas técnicas de elicitação e modelagem de requisitos. Os resumos sobre cada assunto eu descrevi nesta wiki pessoal para assuntos da UnB, na aba "REQUISITOS".
 
 ## Facilidades
 **1.** O próprio modelo remoto me auxiliou muito neste processo porque descobri que rendo muito mais e por muito mais tempo quando posso estudar sem me deslocar.
