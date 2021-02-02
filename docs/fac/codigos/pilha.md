@@ -1,5 +1,6 @@
-# Escreva um código em assembly MIPS para armazenar o conteúdo dos registradores $s0, $s1 e $s2 na pilha
-
+# <center> Armazenar em Pilha
+Escreva um código em assembly MIPS para armazenar o conteúdo dos registradores $s0, $s1 e $s2 na pilha
+```assembly
 .data
 
 .text
@@ -16,3 +17,4 @@ lw $s0, 0($sp)
 lw $s1, 4($sp)
 lw $s2, 8($sp)
 addi $sp, $sp, 12           # remove os 3 itens da pilha. Remover é só mudar o ponteiro da pilha pra não mostar nada.
+```

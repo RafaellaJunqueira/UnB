@@ -1,3 +1,7 @@
+# <center>Comparar char's 2.0
+Agora um jeito mais inteligente e que meis eficiente também, porque usa alocação dinâmica então não fica lá gastando memória atoa.
+
+```assembly
 .data
 	quebra:	.asciiz "\n"
 
@@ -63,3 +67,4 @@ pula:
 
 	li $v0, 10
 	syscall
+```

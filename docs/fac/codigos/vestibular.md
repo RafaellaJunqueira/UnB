@@ -1,3 +1,42 @@
+# <center> Comparar char's
+Esse exercício é muuuito legal também! Me senti uma deusa quando deu certo kkk A ideia é que existe uma prova e a entrada será a quantidade de letras que o gabarito possui e em seguida a sequência correta dessas letras (sempre maiúsculas). Em seguida, entrará a sequência marcada pelo aluno. O programa deve ter a saída de quantas e quais letras o aluno acertou.
+
+Existe um jeito mais inteligente de fazer isso, alocando o espaço dinamicamente e que eu não sabia fazer na época. O "vestibular 2" trará essa solução.
+
+Resolução em C:
+```C
+#include <stdio.h>
+
+int main(void)
+{
+    int qtd_letras = 0;
+    int soma = 0;
+    scanf("%d", &qtd_letras);
+
+    char palavra1[qtd_letras];
+    char palavra2[qtd_letras];
+
+    scanf("%s", &palavra1);
+    scanf("%s", &palavra2);
+
+    for(int i = 0; i < qtd_letras; i++)
+    {
+        if(palavra1[i] == palavra2[i])
+        {
+            soma += 1;
+        }
+    }
+
+    printf("%d", soma);
+    printf("\n");
+
+    return 0;
+}
+```
+
+Agora no assembly vida loka:
+
+```assembly
 .data
     quebra: .asciiz "\n"
     palavra1: .space 20                     # aloca um espaço de memória de 20 bytes para a palavra 1
@@ -101,3 +140,4 @@ sair:
 
     li $v0, 10
     syscall
+```

@@ -1,11 +1,17 @@
-# percorrer uma string e copiar cada char. Em C seria o código:
-# void strcpy( char x[], char y[] )
-# {
-#     int i;
-#     for (i = 0; (x[i] != y[i]) != '/0'; i++)
-# }
-# x = $a0 , y = $a1 , i = $t0
- 
+# <center>Impressao de string  
+Percorrer uma string e copiar cada char. Em C seria o código:
+```C
+
+void strcpy( char x[], char y[] )
+{
+    int i;
+    for (i = 0; (x[i] != y[i]) != '/0'; i++)
+}
+# As variáveis são equivalentes a: x = $a0 , y = $a1 , i = $t0
+```
+
+Agora, em assembly seria:
+```assembly
  .data
 
  .text
@@ -31,3 +37,4 @@ L2:
 
     li $v0, 10
     syscall
+```

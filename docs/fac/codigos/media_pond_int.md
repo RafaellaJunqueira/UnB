@@ -1,3 +1,5 @@
+# <center>Média Ponderada para Int
+```assembly
 # Ler números INTEIROS e fazer a media ponderada.
 
 .data
@@ -59,3 +61,4 @@ sair:
 
         li $v0, 10
         syscall
+```

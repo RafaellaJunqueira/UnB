@@ -1,3 +1,7 @@
+# <center>Implementaçao do operador Mult
+Esse exercício é para fazer uma multiplicação igual a que o operador "mult" faz por baixo dos panos. É meio confuso de entender, vai bit pra lá, sobra bit pra cá. Mas esse é o jeito completo. Porééém, entretando, todavia, existe um operador muito muito fácil que faz exatamente a mesma coisa chamado "madd". Vale a pena dar uma olhada, o código fica, literalmente, com 3 linhas! Segue a dica da mamãe, hein!
+
+```assembly
 # Implementar o operador mult.
 
 .text
@@ -40,3 +44,4 @@ sair:
 
     li $v0, 10
     syscall
+```

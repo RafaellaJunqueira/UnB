@@ -1,3 +1,5 @@
+# <center>Multiplicação simples
+```assembly
 multfac:
     mult	$a0, $a1			# $t0 * $t1 = Hi and Lo registers
     mflo	$t2					# resultado Lo salva em t2
@@ -7,3 +9,4 @@ multfac:
 sair: 
     li      $v0, 10
     syscall
+```

@@ -1,4 +1,6 @@
-###### SOMA DE DOIS INTEIROS ######
+# <center> Soma de dois inteiros
+
+```assembly
 
 .data
     num1: .asciiz "Informe o primeiro número: "
@@ -45,3 +47,4 @@ main:
 # Esse bloco de código SEMPRE deve existir, é o que manda o programa finalizar
     li $v0, 10
     syscall
+```

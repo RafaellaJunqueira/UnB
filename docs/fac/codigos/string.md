@@ -1,7 +1,9 @@
-# Ler uma string do terminal e imprimir essa string.
-# **OBS**: sempre contar com dois bytes A MAIS pq na hora de ler a string, o programa conta com o \0 de final 
-# e com o \n do enter.
+# <center>Impressão de string inteira
 
+Ler do terminal e imprimir essa string.
+**OBS**: sempre contar com dois bytes A MAIS porque na hora de ler a string, o programa conta com o \0 de final e com o \n do enter.
+
+```assembly
 .data
     str: .space 20         # aloquei um espaço de memória de 20 bytes
     str1: .asciiz "Digite uma string:\n"
@@ -49,3 +51,4 @@ loop:
 sair:
     li $v0, 10
     syscall
+```
