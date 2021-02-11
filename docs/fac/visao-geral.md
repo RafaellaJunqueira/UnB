@@ -1,4 +1,4 @@
-# <center>Visão Geral
+# <center>Fundamentos e Arquitetura de Computadores
 
 Oi amigos! Como eu estou fazendo esse tópico já em 2021, atrasadíssima, eu vou escrever com as minhas palavras o que for lembrando de mais importante e mais legal! Fonte: vozes da minha cabeça (mas pode confiar).
 

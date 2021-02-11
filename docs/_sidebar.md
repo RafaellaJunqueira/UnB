@@ -9,8 +9,8 @@
     * [Testes dinâmicos](testes/testes-dinamicos.md)
     * [Manutenção de software](testes/manutencao.md)
 * [**FAC**](fac/visao-geral.md)
-    * **Conteúdos**
-    * [Visão Geral](fac/visao-geral.md)
+    <!-- * **Conteúdos**
+    * [Visão Geral](fac/visao-geral.md) -->
     * **Códigos**
     * [Ola mundo](fac/codigos/ola-mundo.md)
     * [Operações básicas](fac/codigos/operacoes-basicas.md)
@@ -31,6 +31,7 @@
     * [Vestibular](fac/codigos/vestibular.md)
     * [Vestibular 2](fac/codigos/vestibular_gi.md)
 * [**GCES**](gces/visao-geral.md)
+* [**QSW**](qualidade/visao-geral.md)
 * [**MPS**](melhoria/visao-geral.md)
 * [**DESENHO**](desenho/visao-geral.md)
     * **Artefatos**

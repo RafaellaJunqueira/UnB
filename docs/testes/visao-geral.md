@@ -1,4 +1,4 @@
-# <center> Visão Geral
+# <center> Testes de Software
 <div align="justify">
 
 Os testes são de extrema importância no processo de desenvolvimento de software, pois visam validar se a aplicação está funcionando corretamente e se atende aos requisitos especificados. Existem diversas técnicas que podem ser aplicadas em diferentes momentos e de diferentes formas para validar os aspectos principais do software.
