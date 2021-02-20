@@ -34,6 +34,7 @@
 * [**QSW**](qualidade/visao-geral.md)
 * [**MPS**](melhoria/visao-geral.md)
     * [Medição de processos](melhoria/medicao.md)
+    * [Análise de processos](melhoria/analise.md)
 * [**DESENHO**](desenho/visao-geral.md)
     * **Artefatos**
     * [5W2H](desenho/5w2h.md)
