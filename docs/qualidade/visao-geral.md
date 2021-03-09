@@ -27,7 +27,7 @@ Os 11 fatores da tabela acima se relacionam com 3 grandes áreas: **Operação d
 ![Tabela3](../_media/qualidade/tabela3.png)
 </div>
 
-## Referências
+## 📌 Referências
 
 [DevMedia](https://www.devmedia.com.br/qualidade-de-software-engenharia-de-software-29/18209)
 

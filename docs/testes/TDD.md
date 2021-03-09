@@ -39,7 +39,7 @@ O teste TDD é, basicamente, dividido em
 
 </div>
 
-### 📌 Boas referências
+### 📌 Referências
 [TDD - Exemplo de teste em Java](https://www.devmedia.com.br/test-driven-development-tdd-simples-e-pratico/18533#:~:text=TDD%20%C3%A9%20o%20Desenvolvimento%20Orientado,do%20nosso%20c%C3%B3digo%20de%20produ%C3%A7%C3%A3o!)
 
 [Livro TDD - Kent](testes/Livro_TDD_Kent-Beck.pdf)

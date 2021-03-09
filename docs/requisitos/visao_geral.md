@@ -33,7 +33,7 @@ A pós-rastreabilidade serve para manter os rastros da linha-base (baseline) de 
 
 </div>
 
-### 📌 Boas referências
+### 📌 Referências
 - [Técnicas de elicitação](http://www.engr.sjsu.edu/fayad/current.courses/cmpe131-spring08/docs/lecture4/Tech-Req-Elicitation-Paper.pdf)
 - [Casos de Uso](https://www.uml-diagrams.org/use-case-diagrams.html)
 - [Product Backlog](https://www.desenvolvimentoagil.com.br/scrum/product_backlog)

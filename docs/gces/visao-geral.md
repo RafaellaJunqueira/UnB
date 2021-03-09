@@ -7,9 +7,6 @@ A gestão das configuração são todas as ferramentas e práticas pra gerenciar
 
 ## Conceitos básicos
 
-**DevOps**<br>
-O DevOps é um conjunto de práticas que une a parte de desenvolvimento com a parte de operações (quem escreve os códigos com a galera que opera o TI, ou seja, testa e lança as aplicações). Algumas pessoas acabam atribuindo o gerenciamento dessas tarefas a uma pessoa que tenha essas habilidades, e daí surge o papel de DevOps, mas, na realidade, DevOps é mais do que um papel, é toda uma cultura e um conjunto de práticas.
-
 **Baselines  vs.  Pipeline**<br>
 Um Baseline é a linha base, os pontos de referência para o desenvolvimento. São versões dos softwares, mesmo que não forem entregáveis, mas sempre são versões estáveis. É um conjunto de features que descreve uma versão de um produto. Quando existe uma versão 1 de um produto e você vai acrescentar coisas, essa lista de mudanças a serem feitas (features) são a baseline da versão 2. Digamos que é uma visão mais macro que vai dizer o que tinha na versão 1 (X, Y, Z features) e o que terá na próxima versão (X, Y, Z, W, S features).
 

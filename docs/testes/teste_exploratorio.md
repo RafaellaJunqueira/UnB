@@ -104,7 +104,7 @@ Representa os testes que precisam ser feitos pra evitar que os usuários passem 
 
 </div>
 
-### 📌 Boas referências
+### 📌 Referências
 [Explicação no Linkedin](https://www.linkedin.com/pulse/para-que-servem-os-testes-explorat%C3%B3rios-diego-conrado/?originalSubdomain=pt)
 <br>
 [Aula da Iolane](https://www.youtube.com/watch?v=9h65WEjmqTg&feature=youtu.be)

@@ -53,7 +53,7 @@ Geralmente os requisitos **funcionais** são registrados no modelo de Casos de U
 
 </div> 
 
-### 📌 Boas referências
+### 📌 Referências
 - [Classificação de requisitos](https://www.devmedia.com.br/introducao-a-requisitos-de-software/29580#:~:text=Existem%20dois%20tipos%20de%20classifica%C3%A7%C3%A3o,seja%2C%20suas%20fun%C3%A7%C3%B5es%20e%20informa%C3%A7%C3%B5es.)
 - [Requisitos de usuário e de sistema](https://homepages.dcc.ufmg.br/~figueiredo/disciplinas/aulas/req-usuario-sistema_v01.pdf)
 - [Qualidade de software](https://www.devmedia.com.br/qualidade-de-software-engenharia-de-software-29/18209)

@@ -18,6 +18,6 @@ Trata-se de uma notação muito reconhecida na comunidade científica bem como n
 Eu costumava usar o Aris, que é uma ferramenta só pra modelagem de processos e bem completo, mas é beem pesado e chatinho de mexer (dá uns bugs do nada). Existe o Bizagi, que é mais leve e mais fácil, mas não é tão bonito. O que uso agora é o Lucidchart, que tem a maior vantagem do planeta que é ser online, não precisa instalar nada. É uma ferramenta muito boa porque permite a criação de diferentes tipos de diagramas (mapa mental, BPMN, UML,  brainstorming, etc etc), com a opção de já escolher um template pré formatado pra usar. Tem como estilizar todos os diagramas com a cor que você quiser, formato, cor do fundo.. bem legal. Por fim, existe também o Draw.io que é o famoso quebra galho; acho bem limitado, feioso e não é o mestre da usabilidade né. Mas por ser outra opção online, na correria, vai na fé que vai dar bom.
 
 
-## Referências
+## 📌 Referências
 
 [O que é BPMN (Business Process Model and Notation) e como aplicar essa notação na Modelagem de Processos.](https://www.euax.com.br/2017/02/o-que-e-bpmn-business-process-model-and-notation/)

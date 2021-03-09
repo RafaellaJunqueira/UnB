@@ -48,7 +48,7 @@ Já a classe concreta é uma classe que possui atributos, métodos e pode ser in
 
 </div>
 
-## Referências
+## 📌 Referências
 
 **What is Class Diagram?** Disponível em [https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-class-diagram/](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-class-diagram/)
 

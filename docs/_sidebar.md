@@ -32,6 +32,7 @@
     * [Vestibular 2](fac/codigos/vestibular_gi.md)
 * [**GCES**](gces/visao-geral.md)
     * [Automações](gces/automacao.md)
+    * [DevOps](gces/devops.md)
 * [**QSW**](qualidade/visao-geral.md)
 * [**MPS**](melhoria/visao-geral.md)
     * [Medição de processos](melhoria/medicao.md)

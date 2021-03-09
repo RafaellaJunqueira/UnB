@@ -67,7 +67,7 @@ As respostas planejadas aos riscos que estão incluídas no registro dos riscos 
 
 
 
-## Referencias
+## 📌 Referencias
 
 [Treasy - O que é 5W2H](https://www.treasy.com.br/blog/5w2h/)
 

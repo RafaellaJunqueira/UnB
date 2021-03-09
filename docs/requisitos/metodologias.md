@@ -118,7 +118,7 @@ O **ciclo de vida** é a estrutura contendo processos, atividades e tarefas envo
 
 </div>
 
-### 📌 Boas referências
+### 📌 Referências
 * [Metodologias tradicionais](https://www.semeru.com.br/blog/as-metodologias-tradicionais-de-desenvolvimento-de-software/)
 * [Metodologias Ágeis](https://www.semeru.com.br/blog/as-metodologias-tradicionais-de-desenvolvimento-de-software/)
 * [Cascata](https://casadaconsultoria.com.br/modelo-cascata/)

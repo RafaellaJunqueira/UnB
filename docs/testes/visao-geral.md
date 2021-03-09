@@ -26,7 +26,7 @@ Cada projeto apresenta características distintas, que dependem do tamanho do so
 
 </div>
 
-### 📌 Boas referências
+### 📌 Referências
 [Visão geral de testes](https://www.devmedia.com.br/guia/guia-de-testes-de-software/34403#modelagem)
 
 [Testes da metodologia ágil vs. na metodologia tradicional](https://www.devmedia.com.br/processo-de-teste-agil-x-tradicional/36854)
