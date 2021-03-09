@@ -37,9 +37,9 @@
     * [Medição de processos](melhoria/medicao.md)
     * [Análise de processos](melhoria/analise.md)
 * [**DESENHO**](desenho/visao-geral.md)
-    * **Artefatos**
-    * [5W2H](desenho/5w2h.md)
-    * **Notação UML - Modelagem estática**
-    * [Diagrama de Classes](desenho/diagrama-classe.md)
-    * [Diagrama de Pacotes](desenho/diagrama-pacotes.md)
-
+    * **Base**
+    * [Artefatos sem metodologia](desenho/sem-abordagem.md)
+    * [Processos e abordagens](desenho/com-abordagem.md)
+    * **Modelagem**
+    * [UML - Estática](desenho/modelagem-estatica.md)
+    * **Padrões de projeto**
