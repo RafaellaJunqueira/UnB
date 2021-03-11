@@ -44,3 +44,4 @@
     * **Modelagem**
     * [UML - Estática](desenho/modelagem-estatica.md)
     * **Padrões de projeto**
+    * [GRASP](desenho/grasp.md)
