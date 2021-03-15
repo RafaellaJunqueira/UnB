@@ -34,6 +34,7 @@
     * [Automações](gces/automacao.md)
     * [DevOps](gces/devops.md)
 * [**QSW**](qualidade/visao-geral.md)
+    * [SQuaRE](qualidade/square.md)
 * [**MPS**](melhoria/visao-geral.md)
     * [Medição de processos](melhoria/medicao.md)
     * [Análise de processos](melhoria/analise.md)
@@ -45,3 +46,4 @@
     * [UML - Estática](desenho/modelagem-estatica.md)
     * **Padrões de projeto**
     * [GRASP](desenho/grasp.md)
+    * [GoF](desenho/gof.md)

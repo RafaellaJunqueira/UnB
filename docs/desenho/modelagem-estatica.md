@@ -4,17 +4,8 @@
 
 Os diagramas citados aqui tenho um cunho mais organizacional, são diagramas "fixos", digamos assim. Os envolvidos nessa classificação são os diagramas de Pacote, de Classe, Dependência & Associação, Classe Concreta & Abstrata & Sobrescrita & Sobrecarga (complementa o de classes), Agregação & Composição, Herança & Realização e de Componentes, os quais conferem uma visão estática acerca dos módulos do projeto. 
 
-## Diagrama de Pacotes
+## Diagrama de Classes
 
-Um Diagrama de Pacotes é um complemento do Diagrama de Classes que trata-se de um diagrama estático que permite organizar o sistema como se representasse uma visão em módulos.
-
-#### Steriotype
-As linhas entre os pacotes usam a nomenclatura para indicar qual é o tipo de dependência entre cada pacote.
-- **<< use >>:** é a dependência típica, se você não colocar nada nos tracejados da linha, já vai indicar que é uma relação de uso entre um e outro;
-- **<< import >>:** envolve a importação de um pacote pra outro. Se só escreve *import* indica que é uma visibilidade, um escopo, públicos;
-- **<< access >>:** a mesma coisa do import, envolve a importação de pacotes, mas para um escopo privado (*private*);
-
-É possível representar cada um dos pacotes ou modelar também utilizando o tipo de arquitetura de uma aplicação web, como Model-View-Controller. Quando vai representar assim, a ordem é importante de acordo com o nível daquela camada, ou seja, mais alto nível (como a view) aparece na parte superior da página e a de banco de dados mais pra baixo. E por aí vai.
 
 ## Diagrama de Agregação e Composição 
 
@@ -38,8 +29,15 @@ O pacote é um meio disponibilizado pela UML para organizar os diversos elemento
 * **Abstração**: relaciona dois elementos que representam a mesma ideia mas em níveis de abstração diferentes;
 * **Disponibilização**: mostra a implementação de um artefato em um alvo de implementação.
 
-
 Diagramas de pacotes são interessantes pois fornecem uma visão clara da estrutura hierárquica dos variados elementos UML dentro de um determinado sistema. Esses diagramas podem simplificar diagramas de classes complexos, criando elementos visuais organizados.
+
+#### Steriotype
+As linhas entre os pacotes usam a nomenclatura para indicar qual é o tipo de dependência entre cada pacote.
+- **<< use >>:** é a dependência típica, se você não colocar nada nos tracejados da linha, já vai indicar que é uma relação de uso entre um e outro;
+- **<< import >>:** envolve a importação de um pacote pra outro. Se só escreve *import* indica que é uma visibilidade, um escopo, públicos;
+- **<< access >>:** a mesma coisa do import, envolve a importação de pacotes, mas para um escopo privado (*private*);
+
+É possível representar cada um dos pacotes ou modelar também utilizando o tipo de arquitetura de uma aplicação web, como Model-View-Controller. Quando vai representar assim, a ordem é importante de acordo com o nível daquela camada, ou seja, mais alto nível (como a view) aparece na parte superior da página e a de banco de dados mais pra baixo. E por aí vai.
 
 ## Diagrama de Classe Abstrata
 
