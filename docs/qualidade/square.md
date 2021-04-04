@@ -8,3 +8,7 @@ Vantagens:
 - Coordenar a orientação sobre a mensuração e avaliação de qualidade;
 - Orientar sobre especificação de requisitos de qualidade;
 - Colocar a ISO 9126 sob a visão de produto. 
+
+<div align="center">
+    <img src="../../_media/qualidade/qualidade-uso-square.jpg" alt="Imagem catergorias square">
+</div>

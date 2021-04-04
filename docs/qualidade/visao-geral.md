@@ -3,6 +3,10 @@
 
 A qualidade de um software pode ser entendida como um conjunto de características a serem satisfeitas, de modo que o produto de software atenda às necessidades de seus usuários e atenda as expectativsa do cliente. 
 
+<div align="center">
+    <img src="../../_media/qualidade/categorias-qualidade.jpg" alt="Imagem categorias de qualidade">
+</div>
+
 ### Visões de qualidade
 
 Existem vários aspectos que impactam na qualidade de um software e ela pode ser enxergada por 5 diferentes visões, de diferentes áreas:
