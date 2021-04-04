@@ -34,6 +34,7 @@
     * [Automações](gces/automacao.md)
     * [DevOps](gces/devops.md)
     * [Isolamento de ambiente](gces/isolamento-ambiente.md)
+    * [Princípios SOLID](gces/solid.md)
 * [**QSW**](qualidade/visao-geral.md)
     * [SQuaRE](qualidade/square.md)
 * [**MPS**](melhoria/visao-geral.md)
